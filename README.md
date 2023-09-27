@@ -1,6 +1,6 @@
 # Learning Solidity
 
-The project is about technical materials to learning Solidity.
+This project is about technical materials to learning Solidity.
 
 - [Learning Solidity](#learning-solidity)
 - [Solidity Doc](#solidity-doc)
@@ -8,9 +8,9 @@ The project is about technical materials to learning Solidity.
 - [Application](#application)
 - [Security](#security)
 - [Infra](#infra)
-- [Third Site](#third-site)
+- [Third party](#third-party)
 - [AI](#ai)
-- [Solidity Code Demo](#solidity-code-demo)
+- [Some Solidity Code Demos](#some-solidity-code-demos)
 
 # Solidity Doc
 
@@ -81,14 +81,14 @@ DeFi
 - [secure contracts](https://secure-contracts.com/)
 - [security wargame](https://www.damnvulnerabledefi.xyz/)
 - [security audits](https://solodit.xyz/)
--   Some Smart Contract Auditors:
-  -   [Cyfrin](https://cyfrin.io/)
-  -   [OpenZeppelin](https://openzeppelin.com/)
-  -   [SigmaPrime](https://sigmaprime.io/)
-  -   [Trail of Bits](https://www.trailofbits.com/)
-  -   [Spearbit](https://spearbit.com/)
-  -   [Dedaub](https://dedaub.com/)
-  -   [Trust](https://www.trust-security.xyz/)
+- Some Smart Contract Auditors:
+  - [Cyfrin](https://cyfrin.io/)
+  - [OpenZeppelin](https://openzeppelin.com/)
+  - [SigmaPrime](https://sigmaprime.io/)
+  - [Trail of Bits](https://www.trailofbits.com/)
+  - [Spearbit](https://spearbit.com/)
+  - [Dedaub](https://dedaub.com/)
+  - [Trust](https://www.trust-security.xyz/)
 
 # Infra
 
@@ -99,16 +99,16 @@ storage
 - [filecoin](https://filecoin.io/)
 - [arweave](https://www.arweave.org/)
 
-# Third Site
+# Third party
 
-- [](https://thirdweb.com/dashboard)
+- [thirdweb](https://thirdweb.com/dashboard)
 
 # AI
 
 - [chatGPT](https://chat.openai.com)
 - [bard](https://bard.google.com/chat)
 
-# Solidity Code Demo
+# Some Solidity Code Demos
 
 - [lottery demo](https://github.com/lokichoggio/lottery)
 - [ERC20 Token demo](https://github.com/lokichoggio/token)
