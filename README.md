@@ -17,7 +17,7 @@ This project is about technical materials to learning Solidity.
 - [solidity](https://docs.soliditylang.org/en/latest/index.html)
 - [smart contract](https://ethereum.org/en/developers/docs/smart-contracts/)
 
-# Develp Tool Sets
+# Develop Tool Sets
 
 development environment
 
@@ -64,6 +64,8 @@ NFT
 
 DAO
 
+- [MakerDao](https://docs.makerdao.com/)
+- [Uniswap](https://docs.uniswap.org/concepts/overview)
 - [aragon](https://aragon.org/)
 
 DeFi
